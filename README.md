@@ -1,6 +1,6 @@
-# Jogo em C com RayLib 🎮
+# SpaceX: Jornada a Marte 🚀
 
-Este projeto é um jogo de computador simples desenvolvido em linguagem C utilizando a biblioteca gráfica [RayLib](https://www.raylib.com/). Foi realizado como parte da disciplina **Introdução à Programação** durante o **primeiro semestre** do curso de **Engenharia de Computação na UFPE (Universidade Federal de Pernambuco)**.
+Este projeto é um jogo de computador simples desenvolvido em linguagem C utilizando a biblioteca gráfica [RayLib](https://www.raylib.com/). Foi realizado como parte da disciplina **Introdução à Programação** durante o **primeiro semestre** do curso de **Engenharia de Computação na UFPE (Universidade Federal de Pernambuco)** (Segundo semestre de 2022).
 
 ## 📚 Contexto Acadêmico
 
