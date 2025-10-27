@@ -1,24 +1,27 @@
-# SpaceX: Jornada a Marte 🚀
+# SpaceX: Journey to Mars 🚀
 
-Este projeto é um jogo de computador simples desenvolvido em linguagem C utilizando a biblioteca gráfica [RayLib](https://www.raylib.com/). Foi realizado como parte da disciplina **Introdução à Programação** durante o **primeiro semestre** do curso de **Engenharia de Computação na UFPE (Universidade Federal de Pernambuco)** (Segundo semestre de 2022).
+This project is a simple computer game developed in **C language** using the [RayLib](https://www.raylib.com/) graphics library.  
+It was created as part of the **Introduction to Programming** course during the **first semester** of the **Computer Engineering program at UFPE (Federal University of Pernambuco)** (Semester of 2022.2).
 
-## 📚 Contexto Acadêmico
+## 📚 Academic Context
 
-O objetivo do projeto era aplicar os conceitos básicos de programação aprendidos ao longo da disciplina, como:
+The goal of the project was to apply the basic programming concepts learned throughout the course, such as:
 
-- Estruturas condicionais e de repetição
-- Manipulação de variáveis e funções
-- Estruturas de dados básicas (como structs)
-- Noções de lógica de jogo e interação com o usuário
+- Conditional and looping structures  
+- Variable and function handling  
+- Basic data structures (such as structs)  
+- Basic game logic and user interaction  
 
-Além disso, o projeto também introduziu noções iniciais de desenvolvimento gráfico usando a RayLib, uma biblioteca C voltada para desenvolvimento de jogos 2D e 3D.
+In addition, the project introduced initial concepts of graphical development using **RayLib**, a C library designed for 2D and 3D game creation.
 
-## 🕹️ Sobre o Jogo
+## 🕹️ About the Game
 
-> Um jogo arcade similar a títulos como [River Raid](https://pt.wikipedia.org/wiki/River_Raid). Possui sistema de pontuação, níveis de dificuldade e diferentes tipos de inimigos.
+> An arcade-style game similar to titles like [River Raid](https://en.wikipedia.org/wiki/River_Raid).  
+> It features a scoring system, difficulty levels, and different types of enemies.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- Linguagem C
-- Biblioteca RayLib (https://www.raylib.com/)
-- Compilador GCC
+- **C language**  
+- **RayLib library** ([https://www.raylib.com/](https://www.raylib.com/))  
+- **GCC compiler**
+
